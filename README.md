@@ -7,7 +7,6 @@ Starter Code for Mountain Paths
 4) ...
 5) Profit!
 
-
 ![Alt text](Assets\Mountain Path Spec-1.png?raw=true)
 ![Alt text](Assets\Mountain Path Spec-2.png?raw=true)
 ![Alt text](Assets\Mountain Path Spec-3.png?raw=true)
