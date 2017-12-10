@@ -7,7 +7,7 @@ Starter Code for Mountain Paths
 4) ...
 5) Profit!
 
-![Alt text](Assets\Mountain Path Spec-1.png?raw=true)
+![Alt text](https://github.com/imathno/MountainPaths_StarterCode/blob/refractor/move-files-around-and-update-readme/Assets/Mountain%20Path%20Spec-1.png?raw=true)
 
 ![Alt text](Assets\Mountain Path Spec-2.png?raw=true)
 
