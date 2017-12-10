@@ -7,20 +7,20 @@ Starter Code for Mountain Paths
 4) ...
 5) Profit!
 
-![Something Went Wrong](Assets/Mountain Path Spec-1.png)
+![Image](Assets/Mountain%20Path%20Spec-1.png?raw=true)
 
-![Alt text](Assets\Mountain Path Spec-2.png?raw=true)
+![Image](Assets/Mountain%20Path%20Spec-2.png?raw=true)
 
-![Alt text](Assets\Mountain Path Spec-3.png?raw=true)
+![Image](Assets/Mountain%20Path%20Spec-3.png?raw=true)
 
-![Alt text](Assets\Mountain Path Spec-4.png?raw=true)
+![Image](Assets/Mountain%20Path%20Spec-4.png?raw=true)
 
-![Alt text](Assets\Mountain Path Spec-5.png?raw=true)
+![Image](Assets/Mountain%20Path%20Spec-5.png?raw=true)
 
-![Alt text](Assets\Mountain Path Spec-6.png?raw=true)
+![Image](Assets/Mountain%20Path%20Spec-6.png?raw=true)
 
-![Alt text](Assets\Mountain Path Spec-7.png?raw=true)
+![Image](Assets/Mountain%20Path%20Spec-7.png?raw=true)
 
-![Alt text](Assets\Mountain Path Spec-8.png?raw=true)
+![Image](Assets/Mountain%20Path%20Spec-8.png?raw=true)
 
-![Alt text](Assets\Mountain Path Spec-9.png?raw=true)
+![Image](Assets/Mountain%20Path%20Spec-9.png?raw=true)
